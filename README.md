@@ -1,0 +1,1 @@
+This is a Reflection API Java project for Advanced Programming Methods Course. The main goal is to go throught soem java classes and find out how many declared and inherited fields or methods they have.

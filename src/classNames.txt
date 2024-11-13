@@ -1,0 +1,6 @@
+IAnimal
+Dog
+Cat
+BlackCat
+ClassInfo
+ClassAnalyzer

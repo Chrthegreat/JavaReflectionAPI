@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Java .class files ###
+
+src/*.class
+*.class

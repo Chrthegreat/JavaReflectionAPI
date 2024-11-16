@@ -1,25 +1,40 @@
 
-1a: Top 3 classes with the most declared methods:
+1a: Top 7 classes with the most declared methods:
 ClassInfo with 9 declared methods
 Dog with 8 declared methods
 Cat with 8 declared methods
+IAnimal with 6 declared methods
+ClassAnalyzer with 4 declared methods
+BlackCat with 0 declared methods
 
-1b: Top 3 classes with the most methods (incl. inherited):
+1b: Top 7 classes with the most methods (incl. inherited):
 ClassInfo with 16 total methods
 Dog with 15 total methods
 Cat with 15 total methods
+BlackCat with 13 total methods
+ClassAnalyzer with 11 total methods
+IAnimal with 6 total methods
 
-2a: Top 3 classes with the most declared fields:
+2a: Top 7 classes with the most declared fields:
 ClassInfo with 6 declared fields
 Cat with 3 declared fields
 Dog with 2 declared fields
+BlackCat with 1 declared fields
+ClassAnalyzer with 0 declared fields
+IAnimal with 0 declared fields
 
-2b: Top 3 classes with the most fields (incl. inherited):
+2b: Top 7 classes with the most fields (incl. inherited):
 ClassInfo with 6 total fields
 Cat with 3 total fields
 Dog with 2 total fields
+BlackCat with 2 total fields
+ClassAnalyzer with 0 total fields
+IAnimal with 0 total fields
 
-3: Top 3 classes with the most supertypes:
+3: Top 7 classes with the most supertypes:
 BlackCat has 2 supertypes
 ClassInfo has 1 supertypes
 Cat has 1 supertypes
+Dog has 1 supertypes
+ClassAnalyzer has 1 supertypes
+IAnimal has 0 supertypes

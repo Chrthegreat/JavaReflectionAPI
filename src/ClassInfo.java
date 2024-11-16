@@ -1,5 +1,9 @@
+
+//This is a middle class to help make things more clear. Given a class as a
+//parameter it calls upon ClassAnalyzer to do its job and stores the results
+//to a number of fields.
 class ClassInfo {
-    private String className;
+    private final String className;
     private int declaredMethodCount;
     private int allMethodCount;
     private int declaredFieldCount;
